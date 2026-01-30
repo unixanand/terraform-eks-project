@@ -1,3 +1,10 @@
+![Terraform](https://img.shields.io/badge/Terraform-1.14.x-623CE4?logo=terraform)
+![AWS](https://img.shields.io/badge/AWS-EKS-orange?logo=amazonaws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5?logo=kubernetes)
+![License](https://img.shields.io/badge/License-EPL--2.0-blue)
+![IaC](https://img.shields.io/badge/Infrastructure-as-Code-success)
+
+
 🚀 Terraform-based EKS CI/CD Infrastructure
 📌 Project Overview
 
